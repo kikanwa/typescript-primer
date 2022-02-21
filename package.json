@@ -1,0 +1,20 @@
+{
+  "name": "typescript-primer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": { 
+    "build":"tsc",
+    "go": "npm run build && node build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikanwa/typescript-primer.git"
+  },
+  "author": "Kikanwa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kikanwa/typescript-primer/issues"
+  },
+  "homepage": "https://github.com/kikanwa/typescript-primer#readme"
+}
